@@ -1,4 +1,3 @@
-## Hi there 👋
 # 👋 ByteEntropyDotCom
 
 Welcome to my GitHub profile! I'm a passionate **Financial Services Engineer** specializing in **high-performance Java microservices**, **fintech infrastructure**, and **modern concurrent computing**.
