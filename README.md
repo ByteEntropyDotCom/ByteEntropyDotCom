@@ -108,6 +108,8 @@ Welcome to my GitHub profile! I'm a passionate **Financial Services Engineer** s
 
 ## 📊 GitHub Stats
 
+https://github-readme-stats.vercel.app/api?username=ByteEntropyDotCom&show_icons=true&theme=dark
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ByteEntropyDotCom&show_icons=true&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ByteEntropyDotCom&layout=compact&theme=dark)
